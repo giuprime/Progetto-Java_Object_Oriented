@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cosce>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Squat x16</primo>
+  <path_primo>src/main/resources\immagini\squat.gif</path_primo>
+  <secondo>Sollevamento laterale gambe x24</secondo>
+  <path_secondo>src/main/resources\immagini\sollevamneto_gamba_laterale.gif</path_secondo>
+  <terzo>Affondi x24</terzo>
+  <path_terzo>src/main/resources\immagini\Affondo.gif</path_terzo>
+  <quarto>Squat Sumo x12</quarto>
+  <path_quarto>src/main/resources\immagini\squat_sumo.gif</path_quarto>
+  <quinto>Wall sit  30s</quinto>
+  <path_quinto>src/main/resources\immagini\wall_sit.gif</path_quinto>
+  <sesto>Stretching quadricipiti  40s (20s cad.)</sesto>
+  <path_sesto>src/main/resources\immagini\stretching_coscia.jpg</path_sesto>
+  <settimo>Allungamenti Polpacci  20s (20s cad.)</settimo>
+  <path_settimo>src/main/resources\immagini\stretching_polpaccio.gif</path_settimo>
+  
+</Cosce> 

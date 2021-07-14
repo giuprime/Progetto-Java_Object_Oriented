@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bicipite>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Piegamenti al muro x12</primo>
+  <path_primo>src/main/resources\immagini\piegamenti_al_muro.gif</path_primo>
+  <secondo>Plank diagonale x12</secondo>
+  <path_secondo>src/main/resources\immagini\plank_diagonale.gif</path_secondo>
+  <terzo>Pugni 00:30s</terzo>
+  <path_terzo>src/main/resources\immagini\pugni.gif</path_terzo>
+  <quarto>Narrow push-up x12</quarto>
+  <path_quarto>src/main/resources\immagini\narrow_push_up.gif</path_quarto>
+  <quinto>Triceps bow x14</quinto>
+  <path_quinto>src/main/resources\immagini\triceps_bow.gif</path_quinto>
+  <sesto>Allungamento bicipiti 40s (20s cad.)</sesto>
+  <path_sesto>src/main/resources\immagini\allungamento_bicipiti.jpg</path_sesto>
+  <settimo>Allungamento tricipiti 40s (20s cad.)</settimo>
+  <path_settimo>src/main/resources\immagini\stretching_tricipiti.gif</path_settimo>
+  
+</Bicipite>

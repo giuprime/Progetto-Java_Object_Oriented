@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Esercizi_Corso>
+  <Calisthenics_1_rep>15</Calisthenics_1_rep>
+  <Funzionale_3_met>8</Funzionale_3_met>
+  <JuJitsu_4_met>8</JuJitsu_4_met>
+  <Funzionale_1>Farmer s Walk</Funzionale_1>
+  <Crossfit_10_met>7</Crossfit_10_met>
+  <JuJitsu_6_met>8</JuJitsu_6_met>
+  <Crossfit_1_met>9</Crossfit_1_met>
+  <Funzionale_5_met>9</Funzionale_5_met>
+  <Boxe_10_met>9</Boxe_10_met>
+  <Calisthenics_5_met>7</Calisthenics_5_met>
+  <Boxe_9_met>8</Boxe_9_met>
+  <Crossfit_6_rep>12</Crossfit_6_rep>
+  <Boxe_5_rep>13</Boxe_5_rep>
+  <Boxe_7_met>7</Boxe_7_met>
+  <Funzionale_6_rep>17</Funzionale_6_rep>
+  <Calisthenics_3_rep>7</Calisthenics_3_rep>
+  <Funzionale_1_rep>20</Funzionale_1_rep>
+  <Funzionale_10_rep>12</Funzionale_10_rep>
+  <JuJitsu_2_rep>11</JuJitsu_2_rep>
+  <Crossfit_3_met>8</Crossfit_3_met>
+  <Calisthenics_7_met>8</Calisthenics_7_met>
+  <JuJitsu_10>Piegamenti</JuJitsu_10>
+  <Boxe_3_rep>14</Boxe_3_rep>
+  <Funzionale_8_rep>15</Funzionale_8_rep>
+  <JuJitsu_1>Affondi</JuJitsu_1>
+  <JuJitsu_2>Squat</JuJitsu_2>
+  <JuJitsu_10_met>8</JuJitsu_10_met>
+  <Crossfit_8_rep>10</Crossfit_8_rep>
+  <Calisthenics_10>V push ups</Calisthenics_10>
+  <JuJitsu_9_rep>12</JuJitsu_9_rep>
+  <JuJitsu_7>Curl da seduti</JuJitsu_7>
+  <JuJitsu_8>Curl in concentrazione</JuJitsu_8>
+  <JuJitsu_9>Burpee</JuJitsu_9>
+  <JuJitsu_3>Rematore</JuJitsu_3>
+  <Calisthenics_1_met>7</Calisthenics_1_met>
+  <JuJitsu_4>Tirate al mento</JuJitsu_4>
+  <JuJitsu_5>Spinte del bacino</JuJitsu_5>
+  <JuJitsu_6>Pull over</JuJitsu_6>
+  <Crossfit_5_met>9</Crossfit_5_met>
+  <Funzionale_3_rep>10</Funzionale_3_rep>
+  <JuJitsu_4_rep>13</JuJitsu_4_rep>
+  <Crossfit_9_rep>12</Crossfit_9_rep>
+  <Crossfit_10_rep>20</Crossfit_10_rep>
+  <JuJitsu_6_rep>14</JuJitsu_6_rep>
+  <Funzionale_5_rep>14</Funzionale_5_rep>
+  <Calisthenics_5_rep>10</Calisthenics_5_rep>
+  <Boxe_9_rep>12</Boxe_9_rep>
+  <Boxe_5_met>8</Boxe_5_met>
+  <Funzionale_6_met>8</Funzionale_6_met>
+  <JuJitsu_10_rep>15</JuJitsu_10_rep>
+  <Crossfit_2_rep>17</Crossfit_2_rep>
+  <Boxe_11_rep>150</Boxe_11_rep>
+  <Funzionale_1_met>8</Funzionale_1_met>
+  <Funzionale_10_met>8</Funzionale_10_met>
+  <Calisthenics_3_met>9</Calisthenics_3_met>
+  <JuJitsu_2_met>9</JuJitsu_2_met>
+  <Crossfit_7_met>7</Crossfit_7_met>
+  <Funzionale_4>Crab Reach</Funzionale_4>
+  <Calisthenics_7_rep>14</Calisthenics_7_rep>
+  <Funzionale_5>Jump Squat</Funzionale_5>
+  <Funzionale_2>Wall Push ups</Funzionale_2>
+  <Funzionale_3>Pull up</Funzionale_3>
+  <Funzionale_8>Glute bridge</Funzionale_8>
+  <Funzionale_9>Lateral Lunge</Funzionale_9>
+  <Funzionale_6>Turkish get up</Funzionale_6>
+  <Funzionale_7>Dumbbell Thruster</Funzionale_7>
+  <JuJitsu_9_met>8</JuJitsu_9_met>
+  <Crossfit_4_rep>10</Crossfit_4_rep>
+  <Boxe_3_met>9</Boxe_3_met>
+  <Boxe_7_rep>14</Boxe_7_rep>
+  <Funzionale_8_met>7</Funzionale_8_met>
+  <Calisthenics_6_met>8</Calisthenics_6_met>
+  <Calisthenics_10_rep>10</Calisthenics_10_rep>
+  <Crossfit_5_rep>7</Crossfit_5_rep>
+  <Crossfit_9_met>8</Crossfit_9_met>
+  <Boxe_4_rep>12</Boxe_4_rep>
+  <Funzionale_9_rep>13</Funzionale_9_rep>
+  <Boxe_1_met>8</Boxe_1_met>
+  <Boxe_6_rep>50</Boxe_6_rep>
+  <Funzionale_2_met>8</Funzionale_2_met>
+  <Calisthenics_4_met>8</Calisthenics_4_met>
+  <Crossfit_11_met>7</Crossfit_11_met>
+  <JuJitsu_3_met>8</JuJitsu_3_met>
+  <Calisthenics_9_rep>15</Calisthenics_9_rep>
+  <JuJitsu_7_met>8</JuJitsu_7_met>
+  <Crossfit_2_met>9</Crossfit_2_met>
+  <Boxe_9>Up downs</Boxe_9>
+  <Calisthenics_8_met>9</Calisthenics_8_met>
+  <Crossfit_7>Flutter kick</Crossfit_7>
+  <Boxe_5>Piegamenti a diamante</Boxe_5>
+  <Crossfit_6>Sit up</Crossfit_6>
+  <Boxe_6>Salto alla corda</Boxe_6>
+  <Crossfit_9>Tuck jumps</Crossfit_9>
+  <Boxe_7>Rotazione spalle avanti</Boxe_7>
+  <Crossfit_8>Hspu</Crossfit_8>
+  <Boxe_11_met>8</Boxe_11_met>
+  <Boxe_8>Single arm biceps curl</Boxe_8>
+  <Crossfit_3>Burpee</Crossfit_3>
+  <Crossfit_2>Squat con sovraccarico</Crossfit_2>
+  <Crossfit_5>Stacco da terra</Crossfit_5>
+  <Crossfit_4>Push up</Crossfit_4>
+  <Boxe_2_rep>12</Boxe_2_rep>
+  <Boxe_8_met>8</Boxe_8_met>
+  <Funzionale_7_rep>17</Funzionale_7_rep>
+  <Crossfit_1>Air Squat</Crossfit_1>
+  <Crossfit_7_rep>13</Crossfit_7_rep>
+  <JuJitsu_8_rep>10</JuJitsu_8_rep>
+  <Calisthenics_2_rep>13</Calisthenics_2_rep>
+  <JuJitsu_1_rep>12</JuJitsu_1_rep>
+  <Boxe_1>Clapping push up</Boxe_1>
+  <Boxe_2>Burpee</Boxe_2>
+  <Boxe_3>Pugni</Boxe_3>
+  <Funzionale_4_met>8</Funzionale_4_met>
+  <Boxe_4>Spider man</Boxe_4>
+  <JuJitsu_5_met>7</JuJitsu_5_met>
+  <Crossfit_4_met>8</Crossfit_4_met>
+  <Funzionale_10>Woodchop</Funzionale_10>
+  <JuJitsu_5_rep>15</JuJitsu_5_rep>
+  <Calisthenics_6_rep>11</Calisthenics_6_rep>
+  <Funzionale_4_rep>12</Funzionale_4_rep>
+  <Calisthenics_10_met>8</Calisthenics_10_met>
+  <Boxe_4_met>8</Boxe_4_met>
+  <Funzionale_9_met>7</Funzionale_9_met>
+  <Calisthenics_6>Barchetta</Calisthenics_6>
+  <Calisthenics_5>Plank addominali</Calisthenics_5>
+  <Boxe_6_met>9</Boxe_6_met>
+  <Crossfit_1_rep>15</Crossfit_1_rep>
+  <Calisthenics_4>Hollow push ups</Calisthenics_4>
+  <Calisthenics_3>Piegamenti in verticale</Calisthenics_3>
+  <Boxe_1_rep>15</Boxe_1_rep>
+  <Calisthenics_9>Crunch addominale</Calisthenics_9>
+  <Boxe_10_rep>11</Boxe_10_rep>
+  <Calisthenics_8>Plank laterale</Calisthenics_8>
+  <Calisthenics_4_rep>12</Calisthenics_4_rep>
+  <Calisthenics_7>Affondi frontali</Calisthenics_7>
+  <Funzionale_2_rep>16</Funzionale_2_rep>
+  <JuJitsu_3_rep>12</JuJitsu_3_rep>
+  <Calisthenics_2>Piegamenti a terra</Calisthenics_2>
+  <Calisthenics_9_met>8</Calisthenics_9_met>
+  <JuJitsu_7_rep>11</JuJitsu_7_rep>
+  <Calisthenics_1>Triceps Dips</Calisthenics_1>
+  <Crossfit_11_rep>13</Crossfit_11_rep>
+  <Crossfit_6_met>8</Crossfit_6_met>
+  <Calisthenics_8_rep>10</Calisthenics_8_rep>
+  <Boxe_11>Gskianto</Boxe_11>
+  <Boxe_10>V Up</Boxe_10>
+  <Crossfit_3_rep>8</Crossfit_3_rep>
+  <Boxe_2_met>8</Boxe_2_met>
+  <Boxe_8_rep>10</Boxe_8_rep>
+  <Funzionale_7_met>9</Funzionale_7_met>
+  <JuJitsu_8_met>8</JuJitsu_8_met>
+  <Calisthenics_2_met>8</Calisthenics_2_met>
+  <Crossfit_8_met>9</Crossfit_8_met>
+  <JuJitsu_1_met>8</JuJitsu_1_met>
+  <Crossfit_11>Esame</Crossfit_11>
+  <Crossfit_10>Mountain climber</Crossfit_10>
+</Esercizi_Corso>

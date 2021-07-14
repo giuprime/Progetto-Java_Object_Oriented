@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Avambracci>
+
+  <riscaldamento>Jumping jacks 30s</riscaldamento>
+  <path_riscaldamento></path_riscaldamento>
+  <primo>Curl in piedi x12</primo>
+  <path_primo>src/main/resources\immagini\curl_in_piedi.gif</path_primo>
+  <secondo>Reverse curl x12</secondo>
+  <path_secondo>src/main/resources\immagini\reverse_curl.gif</path_secondo>
+  <terzo>Press pulse al petto 20s</terzo>
+  <path_terzo>src/main/resources\immagini\press_pulse_al_petto.gif</path_terzo>
+  <quarto>Wrist curl x12</quarto>
+  <path_quarto>src/main/resources\immagini\wristcurl.gif</path_quarto>
+  <quinto>Hammer curl x12</quinto>
+  <path_quinto>src/main/resources\immagini\hammer_curl.gif</path_quinto>
+  <sesto>Stretching bicipiti 40s (20s cad.)</sesto>
+  <path_sesto>src/main/resources\immagini\allungamento_bicipiti.jpg</path_sesto>
+  <settimo>Piegamento laterale seduti 40s</settimo>
+  <path_settimo>src/main/resources\immagini\piegamento_laterale_seduti.jpg</path_settimo>
+  
+</Avambracci>

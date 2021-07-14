@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Utente>
+  <Genere>U</Genere>
+  <Email>mariorossi.it</Email>
+  <Circonferenza_Vita>135</Circonferenza_Vita>
+  <Circonferenza_Collo>40</Circonferenza_Collo>
+  <Massa_Grassa>44.113738060495734</Massa_Grassa>
+  <Caviglia>12</Caviglia>
+  <Tipologia>Utente</Tipologia>
+  <Polso>14</Polso>
+  <Circonferenza_Fianchi>155</Circonferenza_Fianchi>
+  <Questionario>si</Questionario>
+  <Peso>77</Peso>
+  <Massa_Magra>59.91920457763672</Massa_Magra>
+  <Altezza>175</Altezza>
+  <Esito_Dottore>positivo</Esito_Dottore>
+  <Nome>Mario</Nome>
+  <Cognome>Rossi</Cognome>
+</Utente>
